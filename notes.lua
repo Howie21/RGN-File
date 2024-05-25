@@ -2,11 +2,11 @@ Cars = {
     --Commented out the completed, list items for each garage copied down below
     -- tr_pdchar - 2018 Charger Widebody - Interceptor,
     -- tr_pddm - Demon - Interceptor,
-    policebikerb - PD Sanchez - Motorcycle,
+    -- policebikerb - PD Sanchez - Motorcycle,
     -- hvmach1 - Mustang Mach1 - Interceptor,
     -- hvcrownvic - Crown Victoria - Patrol Car,
     --  - Caprice - Patrol Car,
-    hvbmw - BMW Motorrad - Motorcycle,
+    -- hvbmw - BMW Motorrad - Motorcycle,
     -- hv23tahoe - Tahoe - Offroad Patrol Car,
     -- hv23ramtrx - RAM TRX - Offroad Patrol Car,
     -- hv22chsrt - 2022 Charger - Patrol  Car,
@@ -15,7 +15,7 @@ Cars = {
     -- hv20exp - Explorer - Offroad Patrol Car,
     -- hv18taur - Taurus - Patrol  Car,
     -- hv18char - 2018 Charger - Patrol  Car,
-    as350 - AS350 - Helicopter/Air1,
+    -- as350 - AS350 - Helicopter/Air1,
     -- hv21camaro - Camero - Interceptor,
     -- nm_3500hd - DirtyMAX - Truck,
 
