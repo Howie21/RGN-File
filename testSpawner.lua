@@ -197,10 +197,11 @@ Config = {
 			trunkItems = trunkItemsVare,
 		},
 	
-		
+
 	}
 
 	Locations = {
+		
 		{	zoneEnable = true, -- MRPD Police
 			job = "police", -- set this to required job grade 
 			garage = {
@@ -212,11 +213,11 @@ Config = {
 					scenario = "WORLD_HUMAN_CLIPBOARD" -- set scenario here
 				},
 
-				list = {
-
-				},
+				list = garageTemplate,
 			},
 		},
+
+		-- New MRPD Zone
 	}
 
 }
