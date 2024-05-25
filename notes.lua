@@ -1,4 +1,5 @@
-Cars = { --Commented out completed, list items for each garage copied down below
+Cars = { 
+    --Commented out the completed, list items for each garage copied down below
     -- tr_pdchar - 2018 Charger Widebody - Interceptor,
     -- tr_pddm - Demon - Interceptor,
     policebikerb - PD Sanchez - Motorcycle,
