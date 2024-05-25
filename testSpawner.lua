@@ -32,6 +32,10 @@ local trunkItemsVare = {
     { name = "spikespack",label = "Spike Strip 5 Pack", weight = 0, amount = 5, info = {}, type = "item", slot = 24, image = "spikespack.png", },
 }
 
+local garageTemplate = {
+
+}
+
 
 
 Locations = {
