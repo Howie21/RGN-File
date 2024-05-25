@@ -140,6 +140,41 @@ Config = {
 						performance = "max",
 						trunkItems = trunkItemsVare,
 					},
+					["hv18taur"] = {
+						CustomName = "2018 Ford Taurus",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+					["hv18char"] = {
+						CustomName = "2018 Dodge Charger",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+					["hv20exp"] = {
+						CustomName = "2020 Ford Explorer",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+					["hv21durango"] = {
+						CustomName = "2021 Dodge Durango",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+					["hv23tahoe"] = {
+						CustomName = "2023 Chevy Tahoe",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
 				},
 			},
 		},
