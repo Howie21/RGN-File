@@ -68,8 +68,137 @@ Config = {
 		{ name = "spikespack",label = "Spike Strip 5 Pack", weight = 0, amount = 5, info = {}, type = "item", slot = 24, image = "spikespack.png", },
 	}
 	
-	--local garageTemplate = {
-	--}
+	local garageTemplate = {
+		
+		["tr_pddm"] = {
+			CustomName = "Dodge Demon - Interceptor",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["tr_pdchar"] = {
+			CustomName = "2018 Charger SRT - Interceptor",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hvmach1"] = {
+			CustomName = "Mustang Mach1 - Interceptor",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv20r35"] = {
+			CustomName = "Nissan GTR R35 - Interceptor",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv21camaro"] = {
+			CustomName = "2020 Camaro - Interceptor",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv22chsrt"] = {
+			CustomName = "2022 Dodge Charger",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hvcrownvic"] = {
+			CustomName = "Ford Crown Victoria",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hvcaprice"] = {
+			CustomName = "Chevy Caprice",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv18taur"] = {
+			CustomName = "2018 Ford Taurus",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv18char"] = {
+			CustomName = "2018 Dodge Charger",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv20exp"] = {
+			CustomName = "2020 Ford Explorer",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv21durango"] = {
+			CustomName = "2021 Dodge Durango",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv23tahoe"] = {
+			CustomName = "2023 Chevy Tahoe",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["hv23ramtrx"] = {
+			CustomName = "2023 Dodge Ram TRX",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["nm_3500hd"] = {
+			CustomName = "2022 Chevy 3500HD",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["speedcamarobb"] = {
+			CustomName = "2021 Chevy Camaro - HEAT",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["speedc8rb"] = {
+			CustomName = "2022 Chevy C8 - HEAT",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+		["speeddemonrb"] = {
+			CustomName = "2019 Dodge Demon - HEAT",
+			colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+			rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+			performance = "max",
+			trunkItems = trunkItemsVare,
+		},
+	
+		
+	}
 
 	Locations = {
 		{	zoneEnable = true, -- MRPD Police
@@ -84,132 +213,7 @@ Config = {
 				},
 
 				list = {
-					["tr_pddm"] = {
-						CustomName = "Dodge Demon - Interceptor",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["tr_pdchar"] = {
-						CustomName = "2018 Charger SRT - Interceptor",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hvmach1"] = {
-						CustomName = "Mustang Mach1 - Interceptor",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv20r35"] = {
-						CustomName = "Nissan GTR R35 - Interceptor",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv21camaro"] = {
-						CustomName = "2020 Camaro - Interceptor",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv22chsrt"] = {
-						CustomName = "2022 Dodge Charger",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hvcrownvic"] = {
-						CustomName = "Ford Crown Victoria",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hvcaprice"] = {
-						CustomName = "Chevy Caprice",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv18taur"] = {
-						CustomName = "2018 Ford Taurus",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv18char"] = {
-						CustomName = "2018 Dodge Charger",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv20exp"] = {
-						CustomName = "2020 Ford Explorer",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv21durango"] = {
-						CustomName = "2021 Dodge Durango",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv23tahoe"] = {
-						CustomName = "2023 Chevy Tahoe",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["hv23ramtrx"] = {
-						CustomName = "2023 Dodge Ram TRX",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["nm_3500hd"] = {
-						CustomName = "2022 Chevy 3500HD",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["speedcamarobb"] = {
-						CustomName = "2021 Chevy Camaro - HEAT",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["speedc8rb"] = {
-						CustomName = "2022 Chevy C8 - HEAT",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
-					["speeddemonrb"] = {
-						CustomName = "2019 Dodge Demon - HEAT",
-						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
-						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
-						performance = "max",
-						trunkItems = trunkItemsVare,
-					},
+
 				},
 			},
 		},
