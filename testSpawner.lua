@@ -82,16 +82,17 @@ Config = {
 					model = `s_m_y_cop_01`, -- set ped model here
 					scenario = "WORLD_HUMAN_CLIPBOARD" -- set scenario here
 				},
+
 				list = {
 					["tr_pddm"] = {
-						CustomName = "Demon Interceptor",
+						CustomName = "Dodge Demon - Interceptor",
 						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
 						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
 						performance = "max",
 						trunkItems = trunkItemsVare,
 					},
 					["tr_pdchar"] = {
-						CustomName = "2018 Charger SRT",
+						CustomName = "2018 Charger SRT - Interceptor",
 						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
 						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
 						performance = "max",
@@ -118,8 +119,28 @@ Config = {
 						performance = "max",
 						trunkItems = trunkItemsVare,
 					},
-					--- Start Here
-				}
+					["hv22chsrt"] = {
+						CustomName = "2022 Dodge Charger",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+					["hvcrownvic"] = {
+						CustomName = "Ford Crown Victoria",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+					["hvcaprice"] = {
+						CustomName = "Chevy Caprice",
+						colors = { 2, 2 }, -- Color index numbers { primary, secondary },
+						rank = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24},-- Job Grade Required to access this vehicle
+						performance = "max",
+						trunkItems = trunkItemsVare,
+					},
+				},
 			},
 		},
 	}
