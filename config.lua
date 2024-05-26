@@ -10570,6 +10570,8 @@ Config = {
 				{ name = "water_bottle", label = "Bottle Water", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "water.png", },
 				{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 				{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
+				{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
+				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
 			},
 		},
 		["jetskirb"] = {
@@ -10581,6 +10583,8 @@ Config = {
 				{ name = "water_bottle", label = "Bottle Water", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "water.png", },
 				{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 				{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
+				{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
+				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
 			},
 		},
 		["airboatrb"] = {
@@ -10592,6 +10596,8 @@ Config = {
 				{ name = "water_bottle", label = "Bottle Water", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "water.png", },
 				{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 				{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
+				{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
+				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
 			},
 		},
 	},
@@ -10614,6 +10620,8 @@ Config = {
 			{ name = "water_bottle", label = "Bottle Water", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "water.png", },
 			{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 			{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
+			{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
+			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
 		},
 		},
 		["jetskirb"] = {
@@ -10625,6 +10633,8 @@ Config = {
 			{ name = "water_bottle", label = "Bottle Water", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "water.png", },
 			{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 			{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
+			{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
+			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
 		},
 		},
 		["airboatrb"] = {
@@ -10636,6 +10646,8 @@ Config = {
 			{ name = "water_bottle", label = "Bottle Water", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "water.png", },
 			{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 			{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
+			{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
+			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
 		},
 		},
 		},
