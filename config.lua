@@ -10571,7 +10571,7 @@ Config = {
 				{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 				{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
 				{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
-				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
+				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "bodyrepair.png", },
 			},
 		},
 		["jetskirb"] = {
@@ -10584,7 +10584,7 @@ Config = {
 				{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 				{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
 				{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
-				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
+				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "bodyrepair.png", },
 			},
 		},
 		["airboatrb"] = {
@@ -10597,7 +10597,7 @@ Config = {
 				{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 				{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
 				{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
-				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
+				{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "bodyrepair.png", },
 			},
 		},
 	},
@@ -10621,7 +10621,7 @@ Config = {
 			{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 			{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
 			{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
-			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
+			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "bodyrepair.png", },
 		},
 		},
 		["jetskirb"] = {
@@ -10634,7 +10634,7 @@ Config = {
 			{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 			{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
 			{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
-			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
+			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "bodyrepair.png", },
 		},
 		},
 		["airboatrb"] = {
@@ -10647,7 +10647,7 @@ Config = {
 			{ name = "medbag", label = "Medical Bag", weight = 1, amount = 2, info = {}, type = "item", slot = 2, image = "medbag.png", },
 			{ name = "medikit", label = "First-Aid Kit", weight = 1, amount = 2, info = {}, type = "item", slot = 3, image = "medikit.png", },
 			{ name = "anchor", label = "Boat Anchor", weight = 1, amount = 5, info = {}, type = "item", slot = 4, image = "anchor.png", },
-			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "ducttape.png", },
+			{ name = "ducttape", label = "Duct tape", weight = 1, amount = 5, info = {}, type = "item", slot = 1, image = "bodyrepair.png", },
 		},
 		},
 		},
